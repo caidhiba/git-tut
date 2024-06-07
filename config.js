@@ -1,2 +1,2 @@
-console.log("hello hiba");
+console.log("hello config");
 console.log("version1");
